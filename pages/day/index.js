@@ -1,2 +1,2 @@
-const Day = () => <div>Hello Day</div>;
+const Day = () => <div>Click Here to visit website</div>;
 export default Day;
