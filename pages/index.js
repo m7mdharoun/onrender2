@@ -2,7 +2,7 @@ import Link from 'next/link'
 const Index = () => (
   <div>
     Hello World.{' '}
-    <Link href="/about">
+    <Link href="/xss">
       <a>About</a>
     </Link>
   </div>
