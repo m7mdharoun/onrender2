@@ -1,7 +1,7 @@
 import Link from 'next/link'
 const Index = () => (
   <div>
-    Click Here to visit website.{' '}
+    Hello World.{' '}
     <Link href="/x">
       <a>https://pastes.io</a>
     </Link>
